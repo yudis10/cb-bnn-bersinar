@@ -1,0 +1,1 @@
+<https://design.detik.com/modules/cb-bnn-bersinar>
