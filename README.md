@@ -1,1 +1,1 @@
-<https://design.detik.com/modules/cb-bnn-bersinar>
+<https://[internal-cdn-host]/modules/cb-bnn-bersinar>
